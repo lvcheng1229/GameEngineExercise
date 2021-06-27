@@ -1,2 +1,6 @@
 ﻿  SandApp.cpp
+e:\gameengineexercise\gameengineexercise\gengine\gengine\src\geng\log.h(16): warning C4251: “Geng::Log::s_CoreLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“Geng::Log”的客户端使用
+  e:\gameengineexercise\gameengineexercise\gengine\gengine\vendor\spdlog\include\spdlog\details\registry.h(34): note: 参见“std::shared_ptr<spdlog::logger>”的声明
+e:\gameengineexercise\gameengineexercise\gengine\gengine\src\geng\log.h(17): warning C4251: “Geng::Log::s_ClientLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“Geng::Log”的客户端使用
+  e:\gameengineexercise\gameengineexercise\gengine\gengine\vendor\spdlog\include\spdlog\details\registry.h(34): note: 参见“std::shared_ptr<spdlog::logger>”的声明
   Sandbox.vcxproj -> E:\GameEngineExercise\GameEngineExercise\GEngine\bin\Debug-x64\Sandbox\Sandbox.exe

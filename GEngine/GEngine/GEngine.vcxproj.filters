@@ -19,10 +19,12 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\Geng\EntryPoint.h" />
+    <ClInclude Include="src\Geng\Log.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Geng\Application.cpp">
       <Filter>src\Geng</Filter>
     </ClCompile>
+    <ClCompile Include="src\Geng\Log.cpp" />
   </ItemGroup>
 </Project>
