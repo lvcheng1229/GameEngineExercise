@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{1ca0a8cd-b76f-4077-9616-3298d96c4a75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Geng">
+      <UniqueIdentifier>{edbc014c-b6a4-4cf0-8cde-221026b19dad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Geng\Application.h">
+      <Filter>src\Geng</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Geng\Core.h">
+      <Filter>src\Geng</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Geng.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Geng\EntryPoint.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Geng\Application.cpp">
+      <Filter>src\Geng</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
