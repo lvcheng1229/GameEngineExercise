@@ -1,5 +1,6 @@
 #pragma once
 #include"Core.h"
+//E5 Begin
 namespace Geng {
 	class GE_API Application
 	{
@@ -9,5 +10,5 @@ namespace Geng {
 		virtual ~Application();
 	};
 	Application* CreateApplication();
-
 }
+//E5 End

@@ -13,11 +13,14 @@ public:
 
 	}
 };
-
+//E5 Begin
 Geng::Application* Geng::CreateApplication()
 {
 	return new SandBox();
 }
+//E5  End 
+
+
 //自定义 
 //跳转到行尾 Ctrl+;
 

@@ -1,4 +1,5 @@
 #pragma once
+//E5 Begin
 #ifdef GE_PLATFORM_WINDOWS
 extern Geng::Application* Geng::CreateApplication();
 int main(int argc,char ** argv)
@@ -9,3 +10,4 @@ int main(int argc,char ** argv)
 	delete app;
 }
 #endif
+//E5 End

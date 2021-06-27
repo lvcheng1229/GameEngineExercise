@@ -1,4 +1,5 @@
 #include "Application.h"
+//E5 Begin
 namespace Geng {
 	void Application::Run()
 	{
@@ -14,3 +15,4 @@ namespace Geng {
 
 	}
 }
+//E5 End
