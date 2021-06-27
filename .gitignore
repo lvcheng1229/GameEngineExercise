@@ -1,0 +1,7 @@
+# Directories
+GEngine/.vs/
+GEngine/bin/
+GEngine/bin-int/
+
+# Files  
+GEngine/.user
